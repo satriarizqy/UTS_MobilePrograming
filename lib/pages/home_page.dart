@@ -106,14 +106,14 @@ class _HomePageState extends State<HomePage>
                 ),
               ),
               Text(
-                'Muhammad Akhsanil Umam',
+                'Ahmad Satria Rizqi Maula',
                 style: TextStyle(
                   color: Colors.black,
                   fontWeight: FontWeight.w600,
                 ),
               ),
               Text(
-                '212221013',
+                '212221019',
                 style: TextStyle(
                   color: Colors.black,
                   fontWeight: FontWeight.w600,

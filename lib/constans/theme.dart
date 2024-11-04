@@ -5,7 +5,7 @@ Color whiteColor = const Color(0xffFFFFFF);
 Color blackColor = const Color(0xff000000);
 Color greyColor = const Color(0xff82868E);
 Color lightGreyColor = const Color(0XFF969696);
-Color primaryColor = const Color(0xffF39E3A);
+Color primaryColor = const Color.fromARGB(255, 36, 81, 230);
 
 TextStyle whiteTextStyle = GoogleFonts.lato(
   color: whiteColor,
